@@ -3,7 +3,7 @@ Tools to create a datasette for mybinder.org
 
 ## Try it
 
-https://binderlytics.herokuapp.com/binder-launches
+https://binderlytics.herokuapp.com/binder-launches/binder
 
 ## Create DB
 
